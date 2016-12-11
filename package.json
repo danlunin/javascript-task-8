@@ -1,5 +1,7 @@
 {
-  "private": true,
+  "name": "flow",
+  "version": "1.0.0",
+  "private" : true,
   "main": "flow.js",
   "scripts": {
     "lint": "eslint .",
